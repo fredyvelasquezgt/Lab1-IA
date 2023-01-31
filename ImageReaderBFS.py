@@ -1,13 +1,10 @@
+#Fredy Velasquez
+#201011
+#IA 2023
+
 from PIL import Image
 
-"""
-Module to handle the conversions between a list of lists of strings (Matrix) and an Image (from PIL)
-Matrix acesses data values through data[row,column] format
-Define Functions for:
-    -Converting Image to Matrix (and vv)                [  ]
-    -Converting Color(tuple) to Symbol(str) (and vv)    [v/]
-    -Printing out a Matrix                              [v/]
-"""
+
 
 hgt, wid = 1, 1
 

@@ -1,11 +1,6 @@
-"""
-Coordinate Class to be used in implementing BFS
-Provides Information about:
-    -Location ([y][x])
-    -Who is Parent (Another Coordinate)
-    -Is Goal (bool)
-"""
-
+#Fredy Velasquez
+#201011
+#IA 2023
 
 class Coordinate:
 
@@ -19,5 +14,4 @@ class Coordinate:
         else:
             self.count = 0
 
-    # add in 'step count' attribute that counts length of path using parent step +1
-    # decide on shortest route by comparing step counts at end, if new path is shorter, change goal node parent to new path
+    

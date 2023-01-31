@@ -1,5 +1,7 @@
+#Fredy Velasquez
+#201011
+#IA 2023
 
-# Basado en:https://github.com/mralwaleed/maze-solving
 class Node:
 
     def __init__(self, x, y, nim):

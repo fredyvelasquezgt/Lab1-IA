@@ -1,12 +1,13 @@
+#Fredy Velasquez
+#201011
+#IA 2023
+
 from PIL import Image
 import numpy as np
-
-# Open the maze image and make greyscale, and get its dimensions
 from PIL._imaging import display
 
 
 from DFS import DFS
-# Basado en:https://github.com/mralwaleed/maze-solving
 
 import cv2
 from Node import Node

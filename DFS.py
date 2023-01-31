@@ -1,5 +1,8 @@
+#Fredy Velasquez
+#201011
+#IA 2023
+
 from collections import deque
-# Basado en:https://github.com/mralwaleed/maze-solving
 
 
 class DFS:

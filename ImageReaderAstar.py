@@ -1,5 +1,8 @@
+#Fredy Velasquez
+#201011
+#IA 2023
+
 from PIL import Image
-# Basado en : https://github.com/mralwaleed/maze-solving
 
 plain = 255, 255, 255, 255
 start = 0, 0, 255, 255

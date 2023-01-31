@@ -1,10 +1,13 @@
+#Fredy Velasquez
+#201011
+#IA 2023
+
 from PIL import Image
 from ImageReaderBFS import *
 from NodeBFS import *
 import cv2
 import numpy as np
 
-# Basado en: https://github.com/Retrix165/BFS-Image-Maze-Solver
 
 yet_to_see = []
 already_seen = []

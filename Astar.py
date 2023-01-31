@@ -1,3 +1,7 @@
+#Fredy Velasquez
+#201011
+#IA 2023
+
 import NodesAs as ng
 import time
 import ImageReaderAstar

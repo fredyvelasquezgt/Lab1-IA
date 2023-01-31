@@ -1,3 +1,7 @@
+#Fredy Velasquez
+#201011
+#IA 2023
+
 from PIL import Image
 from matplotlib import pyplot
 import numpy as np
